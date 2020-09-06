@@ -135,7 +135,7 @@ public class Window {
 		JMenuItem mb = new JMenuItem(new AbstractAction("Show in MB") {
     		public void actionPerformed(ActionEvent e) {
 
-    			//CREATE A METHOD FOR THIS
+    			//TODO: Create method, remove repetitive code
         		
         		memory_capacity_label.setText(Long.toString(memory_mb) + " MB");
 
@@ -155,7 +155,7 @@ public class Window {
 		JMenuItem gb = new JMenuItem(new AbstractAction("Show in GB") {
     		public void actionPerformed(ActionEvent e) {
 
-    			//CREATE A METHOD FOR THIS CRAP
+    			//TODO: Create method, remove repetitive code
 
         		memory_capacity_label.setText(Long.toString(memory_gb) + " GB");
 
