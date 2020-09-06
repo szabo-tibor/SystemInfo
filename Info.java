@@ -65,9 +65,6 @@ public class Info {
 
 	public static ArrayList<ArrayList<String>> storangeInfo() {
 
-		//add option to show memory in GB or MB in GUI
-		// /1024 /1024 /1024 for GB, /1024 /1024 for MB
-		//JProgressBar
 
 		ArrayList<ArrayList<String>> info = new ArrayList<ArrayList<String>>();
 
