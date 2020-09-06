@@ -4,6 +4,8 @@ import javax.swing.*;
 import java.net.*;
 import java.util.*;
 
+//TODO: Implement interface settings menu
+
 public class Window {
 	public static void main(String[] args) throws SocketException{
 
